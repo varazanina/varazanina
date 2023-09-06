@@ -1,16 +1,25 @@
-### Hi there 👋
+## 👋 About Me
 
-<!--
-**varazanina/varazanina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```html
+<div class="developer-profile">
+  <h1>Hello, I'm [Your Name]!</h1>
+  <p>🎓 Multimedia Design Student at Business Academy Aarhus</p>
+  <p>🚀 On the hunt for an Internship Opportunity</p>
+  <p>🌐 Specializing in Frontend Development</p>
+  <p>💻 Currently diving into the world of React</p>
+  <p>🐍 Comfortable with Python as well</p>
+  <p>📫 Reach out to me via <a href="https://www.linkedin.com/in/your-linkedin-profile">LinkedIn</a> message</p>
+</div>
 
-Here are some ideas to get you started:
+## **🚀 My Tech Stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const mySkills = {
+  languages: ['HTML', 'CSS', 'JavaScript'],
+  learning: ['React'],
+  background: ['Python'],
+};
+
+// Let's connect and build amazing things together!
+if (interestedInCollaboration) {
+  console.log('Feel free to reach out!');
+}
