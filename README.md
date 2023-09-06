@@ -1,6 +1,5 @@
 ## 👋 About Me
 
-```html
 <div class="developer-profile">
   <h1>Hello, I'm [Your Name]!</h1>
   <p>🎓 Multimedia Design Student at Business Academy Aarhus</p>
