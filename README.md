@@ -11,7 +11,7 @@
   <p>📫 Reach out to me via <a href="https://www.linkedin.com/in/your-linkedin-profile">LinkedIn</a> message</p>
 </div>
 
-## **🚀 My Tech Stack**
+## 🚀 My Tech Stack
 
 const mySkills = {
   languages: ['HTML', 'CSS', 'JavaScript'],
