@@ -3,7 +3,7 @@
 <div class="developer-profile">
   <h2>Hello, I'm Nina!</h2>
   <p>🎓 Multimedia Design Student at Business Academy Aarhus</p>
-  <p>🚀 On the hunt for an Internship Opportunity</p>
+  <p>🚀 On the hunt for a Job </p>
   <p>🌐 Specializing in Frontend Development</p>
   <p>💻 Currently diving into the world of React</p>
   <p>🐍 Comfortable with Python as well</p>
